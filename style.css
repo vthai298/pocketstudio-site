@@ -12,3 +12,5 @@ a { color: var(--accent); }
 .muted { color: var(--muted); }
 ul { padding-left: 22px; }
 footer { margin-top: 48px; padding-top: 16px; border-top: 1px solid var(--line); color: var(--muted); font-size: 0.9rem; }
+.yt { margin-top: 36px; padding: 12px 16px; border: 1px solid var(--line); border-radius: 8px; }
+.yt strong { color: #ff0033; }
